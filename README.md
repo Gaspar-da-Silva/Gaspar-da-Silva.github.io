@@ -1,5 +1,3 @@
-gaspardasilva12.github.io
-
 # Olá! Eu sou o Gaspar José da Silva
 
 
